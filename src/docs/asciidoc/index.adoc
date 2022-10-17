@@ -1,0 +1,50 @@
+= API Document
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 3
+:sectlinks:
+:docinfo: shared-head
+
+== Sample API
+
+=== Sample GET Request
+
+include::{snippets}/get/http-request.adoc[]
+
+=== Sample GET Response
+
+include::{snippets}/get/http-response.adoc[]
+
+=== Sample POST Request
+
+include::{snippets}/post/http-request.adoc[]
+
+=== Sample POST Response
+
+include::{snippets}/post/http-response.adoc[]
+
+=== Sample PUT Request
+
+include::{snippets}/put/http-request.adoc[]
+
+=== Sample PUT Response
+
+include::{snippets}/put/http-response.adoc[]
+
+=== Sample PATCH Request
+
+include::{snippets}/patch/http-request.adoc[]
+
+=== Sample PATCH Response
+
+include::{snippets}/patch/http-response.adoc[]
+
+=== Sample DELETE Request
+
+include::{snippets}/delete/http-request.adoc[]
+
+=== Sample DELETE Response
+
+include::{snippets}/delete/http-response.adoc[]
