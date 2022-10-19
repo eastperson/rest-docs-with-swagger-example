@@ -7,6 +7,10 @@
 :sectlinks:
 :docinfo: shared-head
 
+ifndef::snippets[]
+:snippets: ../../../build/generated-snippets
+endif::[]
+
 == Sample API
 
 === Sample GET Request
